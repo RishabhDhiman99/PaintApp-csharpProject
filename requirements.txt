@@ -1,0 +1,3 @@
+for windows:-
+1. C# & .NET support
+2. Microsoft visual studio
